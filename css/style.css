@@ -1,0 +1,562 @@
+*{
+	margin: 0px;
+	padding: 0px;
+/*     border: 1px solid red; */
+}
+
+body{
+	font-family: 'Tenor Sans', sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+	background-color: #F5D1D0;
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Tenor Sans', sans-serif;
+}
+
+a, a:hover{
+	text-decoration: none;
+}
+
+
+/* **CSS code start** */
+
+/* header code start here */
+
+.header{
+	width: 100%;
+}
+
+.header .nav-bg-light{
+	width: 100%;
+	background-color: #F5D1D0;
+	border-bottom: 1px solid black;
+}
+
+.header .nav-bg-light .logo{
+	width: 85%;
+}
+
+.header .nav-bg-light .nav-item{
+	font-size: 20px;
+    font-weight: 700;
+    padding: 0px 20px;
+    margin-right: 20px;
+}
+
+.header .icons{
+    width: 100%;
+    text-align: right;
+    margin-top: 10px;
+}
+
+.header .icons li{
+    display: inline-block;
+    color: black;
+}
+
+.header .icons li a {
+    display: block;
+    width: 60px;
+    height: 60px;
+    line-height: 70px;
+    font-size: 26px;
+    color: #000000;
+}
+
+.inner-header{
+	width: 100%;
+	padding: 150px 0px;
+}
+
+.inner-header .header-img{
+	position: relative;
+	top: 240px;
+}
+
+.inner-header .inner-header-text{
+	width: 100%;
+	margin-top: 25px;
+}
+
+.inner-header .inner-header-text p{
+	font-size: 30px;
+    font-weight: 400;
+    text-transform: uppercase;
+    word-spacing: 2px;
+    color: #2C7262;
+}
+
+.inner-header .inner-header-text h1{
+	font-size: 70px;
+    font-weight: 500;
+    line-height: 55px;
+    word-spacing: 1px;
+    color: #2C7262;
+}
+
+
+.inner-header-1{
+	background-image: url(../images/background.png);
+	background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 0;
+    overflow: hidden;
+}
+
+.inner-header-1{
+	width: 100%;
+}
+
+.inner-header-1 .background-text{
+	margin-left: 42%;
+    margin-top: 20px;
+}
+
+.inner-header-1 .background-text p{
+	color: #ffffff;
+	font-size: 16px;
+	line-height: 24px;
+	letter-spacing: 1px;
+    text-align: justify;
+    margin-top: 50px;
+}
+
+.inner-header-1 .background-text .btn-primary{
+	background-color: #ffffff;
+    color: #F5D1D0;
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    padding: 5px 20px;
+    border: none;
+    margin-bottom: 50px;
+}
+/* header code end here */
+
+/* Ready-for code start here */
+
+.ready-for{
+	width: 100%;
+	padding: 80px 0px;
+}
+
+.ready-for .head-ready-for{
+	width: 100%;
+	text-align: center;
+}
+
+.ready-for .head-ready-for p{
+	font-size: 30px;
+    font-weight: 400;
+    text-transform: uppercase;
+    word-spacing: 2px;
+    text-transform: uppercase;
+    color: #2C7262;
+}
+
+.ready-for .head-ready-for h1{
+	font-size: 60px;
+    font-weight: 500;
+    line-height: 55px;
+    word-spacing: 1px;
+    text-transform: uppercase;
+    color: #2C7262;
+}
+
+.ready-for-img{
+	width: 100%;
+	padding: 60px 0px;
+}
+
+.ready-img{
+	margin-left: 20px;
+}
+
+.ready-for-img img{
+    width: 100%;
+    max-width: 100%;
+}
+
+.ready-for .ready-for-img p {
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+    word-spacing: 2px;
+    color: #2C7262;
+    margin-top: 15px;
+}
+
+/* Ready-for code end here */
+
+
+/* Support-farmers code start here  */
+
+.support-fermar{
+	width: 100%;
+}
+
+.support-fermar{
+	background-color: #2C7262;
+    width: 1000px;
+    height: 700px;
+}
+
+.support-fermar .inner-support{
+	margin-top: 48%;
+    margin-left: 11%;
+}
+
+.support-fermar .supp-img {
+    width: 100%;
+    margin-left: 180px;
+    margin-top: 100px;
+    max-width: 100%;
+}
+
+.support-fermar .inner-support p{
+	font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    word-spacing: 2px;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.support-fermar .inner-support h1{
+	font-size: 50px;
+    font-weight: 500;
+    line-height: 55px;
+    word-spacing: 1px;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.support-fermar .inner-support .text {
+    font-size: 10px;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.support-fermar .inner-support .btn-primary{
+	background-color: #ffffff;
+    color: #F5D1D0;
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    padding: 5px 20px;
+    border: none;
+}
+
+/* Support-fermars code end here */
+
+/* Newly-harvest code start here */
+
+.newly-harvest{
+	width: 100%;
+}
+
+/* .newly-harvest .harvest {
+    
+    margin-left: -60px;
+} */
+
+.newly-harvest .harvest-text {
+	margin-top: 230px;
+	margin-left: 55px;
+}
+
+.newly-harvest .harvest-text h1{
+	font-size: 55px;
+    font-weight: 500;
+    line-height: 55px;
+    word-spacing: 1px;
+    text-transform: uppercase;
+    color: #2C7262;
+}
+
+.newly-harvest .harvest-text .text{
+    width: 100%;
+	font-size: 14px;
+    font-weight: 400;
+    word-spacing: -1px;
+    color: #2C7262;
+}
+
+.newly-harvest .harvest-text .btn-primary{
+	background-color: #F5D1D0;
+    color: #2C7262;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    padding: 5px 20px;
+    border: 5px solid #2C7262;
+}
+
+.newly-harvest-img img{
+    width: 100%;
+    max-width: 100%;
+    margin-left: 15px;
+}
+
+/* Newly-harvest code end here */
+
+/* Fresh daily products code start here */
+
+.fresh-daily{
+	width: 100%;
+}
+
+
+.fresh-daily .fresh-daily-text{
+	margin-top: 250px;
+	margin-left: 20px;
+}
+
+.fresh-daily .fresh-daily-text h1{
+	font-size: 55px;
+    font-weight: 500;
+    line-height: 55px;
+    word-spacing: 1px;
+    text-transform: uppercase;
+    color: #2C7262;
+}
+
+.fresh-daily .fresh-daily-text .text{
+	font-size: 14px;
+    font-weight: 400;
+    word-spacing: -1px;
+    color: #2C7262;
+}
+
+.fresh-daily .fresh-daily-text .btn-primary{
+	background-color: #F5D1D0;
+    color: #2C7262;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    padding: 5px 20px;
+    border: 5px solid #2C7262;
+}
+
+.fresh-img img{
+    width: 100%;
+    max-width: 100%;
+    margin-left: -10px;
+}
+
+
+
+/* Fresh daily products code end here */
+
+/* Testimonial code start here */
+
+.testimonial{
+	width: 100%;
+	background-color: #2C7262;
+    padding: 80px 0px;
+}
+
+.testimonial-head{
+	text-align: center;
+	margin-top: 100px;
+}
+
+.testimonial .testimonial-head h1{
+	font-size: 70px;
+    font-weight: 500;
+    line-height: 55px;
+    word-spacing: 1px;
+    color: #ffffff;
+}
+
+.testimonial .testimonial-head p{
+	font-size: 25px;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.testimonial .inner-testimonial{
+	width: 100%;
+	text-align: center;
+}
+
+.testimonial .inner-testimonial .clint-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin-top: 35px;
+}
+
+.testimonial .inner-testimonial p{
+	color: #ffffff;
+    font-size: 18px;
+    word-spacing: 1px;
+    line-height: 26px;
+    margin-top: 20px;
+}
+
+
+/* Testimonial code end here */
+
+
+
+/* Local farms code start here */
+
+.local-farms{
+	width: 100%;
+	padding: 80px 0px;
+}
+
+.local-farms .local-farms-head{
+	width: 100%;
+	text-align: center;
+}
+
+.local-farms .local-farms-head h1{
+	text-transform: capitalize;
+	font-size: 70px;
+    font-weight: 500;
+    line-height: 55px;
+    word-spacing: 1px;
+    color: #2C7262;
+}
+
+.local-farms .inner-local-farms{
+	margin-top: 50px;
+}
+
+.local-farms .inner-local-farms .farms-img{
+	width: 90%;
+    text-align: center;
+    margin: 20px;}
+
+.local-farms .inner-local-farms h4{
+	text-transform: uppercase;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 55px;
+    word-spacing: 1px;
+    color: #2C7262;
+    margin-top: 20px;
+}
+
+.local-farms .inner-local-farms p{
+	color: #2C7262;
+    text-align: justify;
+    font-size: 17px;
+    word-spacing: 1px;
+    line-height: 26px;
+    padding: 20px;
+    margin-top: -25px;
+}
+
+.local-farms .local-farms-btn{
+	width: 100%;
+	text-align: center;
+	margin-top: 70px;
+}
+
+.local-farms .local-farms-btn .btn-primary{
+	background-color: #2C7262;
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    padding: 10px 60px;
+    border: none;
+}
+
+/* Local farms code end here */
+
+/* footer code start here */
+
+
+.footer{
+    width: 100%;
+    padding: 80px 0px 0px;
+    background: #2C7262;
+}
+
+.footer .inner-content{
+    width: 84%;
+    padding-left: 20px;
+}
+
+.footer h3{
+    font-weight: 600;
+    font-size: 60px;
+    text-transform: uppercase;
+    line-height: 55px;
+    color: #FFFFFF;
+}
+
+.footer .col-md-4 ul{
+    display: block;
+    margin-top: 20px;
+    margin-left: -18px;
+}
+
+.footer .col-md-4 ul li{
+    display: inline-block;
+}
+
+.footer .col-md-4 li a{
+    font-size: 30px;
+    color: #ffffff;
+    padding: 10px;
+}
+
+.footer h5{
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 30px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+.footer .fmenu{
+    margin: 0px 0px 40px;
+    padding: 0px;
+}
+
+.footer .fmenu li{
+    list-style: none;
+    display: list-item;
+}
+
+.footer .fmenu li a{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+}
+
+.footer .main-footer{
+    width: 100%;
+    padding: 30px 0px 20px;
+    margin-bottom: 0px;
+    margin-left: 25px;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+/* footer code end here */
+
+/* **CSS code end** */

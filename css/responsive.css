@@ -1,0 +1,1010 @@
+/* Reaponsive media queries start */
+
+/***** Most of the smart phone
+   Resulation: 320px to 480px; 
+*****/
+
+@media (min-width: 320px) and (max-width: 480px){
+	
+/* css code start */
+
+/* header css start */
+
+.inner-header{
+	padding: 40px 0px;
+	margin-top: -210px;
+}
+
+.navbar-light .navbar-nav .nav-link{
+
+}
+
+.header .nav-bg-light .logo {
+    width: 70%;
+}
+
+.inner-header .inner-header-text {
+   width: 100%;
+   margin-top: 25px;
+   text-align: center;
+}
+
+.inner-header .header-img{
+	width: 35%;
+   top: 350px;
+}
+
+.inner-header .inner-header-text p{
+	font-size: 18px;
+   word-spacing: 0px;
+}
+
+.inner-header .inner-header-text h1{
+	font-size: 35px;
+   line-height: 30px;
+   word-spacing: 0px;
+
+}
+
+.inner-header-1 .background-text p{
+   font-size: 12px;
+   line-height: 22px;
+   letter-spacing: 1px;
+   margin-top: 20px;
+}
+
+.inner-header-1 .background-text .btn-primary{
+	font-size: 14px;
+   letter-spacing: 0px;
+   word-spacing: 0px;
+   padding: 5px 15px;
+   margin-bottom: 35px;
+}
+
+
+/* header css end */
+
+
+/* Ready-for css start */
+
+.ready-for{
+	padding: 40px 0px;
+}
+
+.ready-for .head-ready-for p{
+	font-size: 20px;
+}
+
+.ready-for .head-ready-for h1{
+	font-size: 40px;
+   line-height: 30px;
+}
+
+.ready-for-img{
+	text-align: center;
+}
+
+.ready-for-img img{
+	width: 50%;
+	margin-left: 80px;
+}
+
+.ready-for .ready-for-img p{
+	font-size: 15px;
+   word-spacing: 0px;
+   line-height: 0px;
+   margin-top: 30px;
+   margin-left: 72px;
+}
+
+/* Ready-for css end */
+
+
+/* support css start */
+
+.support-fermar{
+	width: 280px;
+    height: 390px;
+}
+
+.support-fermar .inner-support{
+	margin-top: 12%;
+   margin-left: 0%;
+}
+
+.support-fermar .inner-support .text {
+   font-size: 10px;
+   font-weight: 400;
+   width: 76%;
+   margin-bottom: 10px;
+}
+
+.support-fermar .supp-img{
+	width: 55%;
+   margin-left: 197px;
+   margin-top: -125%;
+}
+
+.support-fermar .inner-support p{
+	margin-top: 15px;
+	font-size: 10px;
+	word-spacing: 0px;
+}
+
+.support-fermar .inner-support h1{
+	font-size: 25px;
+    line-height: 25px;
+    word-spacing: 0px;
+}
+
+.support-fermar .inner-support .btn-primary{
+	font-size: 12px;
+}
+
+/* support css end */
+
+
+/* Newly-harvest css start */
+
+.newly-harvest-img img{
+   width: 52%;
+   margin-left: -12px;
+   margin-top: 15px;
+}
+
+.newly-harvest .harvest-text{
+   margin-top: -255px;
+   margin-left: 232px;
+}
+
+.newly-harvest .harvest-text h1{
+   font-size: 20px;
+   line-height: 25px;
+   word-spacing: 0px;
+   font-weight: 700;
+}
+
+.newly-harvest .harvest-text .text{
+   font-size: 12px;
+   font-weight: 400;
+   word-spacing: 0px;
+   line-height: 16px;
+}
+
+.newly-harvest .harvest-text .btn-primary{
+   font-size: 12px;
+   font-weight: 700;
+   letter-spacing: 0px;
+   word-spacing: 0px;
+   padding: 5px 10px;
+   border: 2px solid #2C7262;
+}
+
+
+/* Newly-harvest css end */
+
+/* Fresh daily products css start */
+
+.fresh-daily .fresh-daily-text{
+   width: 46%;
+   margin-top: 30px;
+   margin-left: 10px;
+}
+
+.fresh-daily .fresh-daily-text h1{
+   font-size: 20px;
+   line-height: 25px;
+   word-spacing: 0px;
+   font-weight: 700;
+}
+
+.fresh-daily .fresh-daily-text .text{
+   font-size: 12px;
+   font-weight: 400;
+   word-spacing: 0px;
+   line-height: 16px;
+}
+
+.fresh-daily .fresh-daily-text .btn-primary{
+   font-size: 12px;
+   font-weight: 700;
+   letter-spacing: 0px;
+   word-spacing: 0px;
+   padding: 5px 10px;
+   border: 2px solid #2C7262;
+}
+
+.fresh-img img{
+   width: 50%;
+   margin-left: 199px;
+   margin-top: -260px;
+}
+
+/* Fresh daily products css end */
+
+/* Testimonial css start start */
+
+.testimonial {
+   padding: 40px 0px;
+}
+
+.testimonial-head {
+   margin-top: 18px;
+}
+
+.testimonial .testimonial-head h1{
+   font-size: 45px;
+   font-weight: 700;
+   line-height: 55px;
+   word-spacing: 0px;
+   letter-spacing: 1px;
+}
+
+.testimonial .testimonial-head p{
+   font-size: 18px;
+   font-weight: 600;
+   letter-spacing: 1px;
+}
+
+.testimonial .inner-testimonial p{
+   font-size: 12px;
+   word-spacing: 0px;
+   line-height: 22px;
+   margin-top: 18px;
+}
+
+/* Testimonial css start end */
+
+/* Local farms css start */
+
+.local-farms{
+   padding: 40px 0px;
+}
+
+.local-farms .local-farms-head h1{
+   font-size: 35px;
+   font-weight: 600;
+   line-height: 45px;
+   word-spacing: 0px;
+}
+
+.local-farms .inner-local-farms{
+   margin-top: 0px;
+}
+
+.local-farms .inner-local-farms .farms-img{
+   width: 70%;
+   margin-left: 65px;
+}
+
+.local-farms .inner-local-farms h4{
+   font-size: 15px;
+   font-weight: 600;
+   line-height: 45px;
+   word-spacing: 0px;
+   margin-top: 0px;
+}
+
+.local-farms .inner-local-farms p{
+   font-size: 12px;
+   word-spacing: 0px;
+   line-height: 20px;
+}
+
+.local-farms .local-farms-btn{
+   margin-top: 0px;
+}
+
+.local-farms .local-farms-btn .btn-primary{
+   font-size: 15px;
+   font-weight: 400;
+   letter-spacing: 0px;
+   word-spacing: 1px;
+   padding: 5px 10px;
+}
+
+/* Local farms css end */
+
+/* footer css start */
+
+.footer{
+   padding: 40px 0px 0px;
+}
+
+.footer h3{
+   font-weight: 600;
+   font-size: 40px;
+   line-height: 45px;
+}
+
+.footer .col-md-8{
+   margin-top: 20px;
+   text-align: center;
+}
+
+.footer h5{
+   font-size: 25px;
+   line-height: 15px;
+}
+
+.footer .main-footer{
+   text-align: center;
+   font-size: 15px;
+   margin-left: 0px;
+   margin-top: -40px;
+}
+
+/* footer css end */
+
+
+/* css code end */
+
+}
+
+
+/***** Most of the low resulation smart phone , tab
+    Resulation: 481px to 767px; 
+   *****/
+   
+@media (min-width: 481px) and (max-width: 767px){
+
+/* css code start */
+
+/* header css start */
+
+.inner-header{
+   padding: 40px 0px;
+   margin-top: -210px;
+}
+
+.navbar-light .navbar-nav .nav-link{
+
+}
+
+.header .nav-bg-light .logo {
+    width: 70%;
+}
+
+.inner-header .inner-header-text {
+   margin-top: 0px;
+   text-align: center;
+}
+
+.inner-header .header-img{
+   width: 35%;
+   top: 350px;
+}
+
+.inner-header .inner-header-text p{
+   font-size: 20px;
+   word-spacing: 0px;
+}
+
+.inner-header .inner-header-text h1{
+   font-size: 40px;
+   line-height: 30px;
+   word-spacing: 0px;
+
+}
+
+.inner-header-1 .background-text p{
+   font-size: 15px;
+   line-height: 24px;
+   letter-spacing: 0px;
+   margin-top: 20px;
+}
+
+.inner-header-1 .background-text .btn-primary{
+   font-size: 14px;
+   letter-spacing: 0px;
+   word-spacing: 0px;
+   padding: 5px 15px;
+   margin-bottom: 35px;
+}
+
+/* header css end */
+
+/* Ready-for css start */
+
+.ready-for{
+   padding: 40px 0px;
+}
+
+.ready-for .head-ready-for p{
+   font-size: 20px;
+}
+
+.ready-for .head-ready-for h1{
+   font-size: 40px;
+   line-height: 30px;
+}
+
+.ready-for-img{
+   text-align: center;
+   padding: 35px 0px;
+
+}
+
+.ready-for-img img{
+   width: 50%;
+   margin-left: 80px;
+}
+
+.ready-for .ready-for-img p{
+   font-size: 15px;
+   word-spacing: 0px;
+   line-height: 0px;
+   margin-top: 30px;
+   margin-left: 72px;
+}
+
+
+/* Ready-for css end */
+
+
+/* support css start */
+
+.support-fermar{
+   width: 440px;
+   height: 390px;
+}
+
+.support-fermar .inner-support{
+   margin-top: 12%;
+   margin-left: 0%;
+}
+
+.support-fermar .inner-support .text {
+   font-size: 10px;
+   font-weight: 400;
+   width: 76%;
+   margin-bottom: 10px;
+}
+
+.support-fermar .supp-img{
+   width: 55%;
+   margin-left: 350px;
+   margin-top: -70%;
+}
+
+.support-fermar .inner-support p{
+   margin-top: 15px;
+   font-size: 10px;
+   word-spacing: 0px;
+}
+
+.support-fermar .inner-support h1{
+   font-size: 25px;
+    line-height: 25px;
+    word-spacing: 0px;
+}
+
+.support-fermar .inner-support .btn-primary{
+   font-size: 12px;
+}
+
+/* support css end */
+
+
+/* Newly-harvest css start */
+
+.newly-harvest-img img{
+   width: 72%;
+   margin-left: -108px;
+   margin-top: 15px;
+}
+
+.newly-harvest .harvest-text{
+   margin-top: -330px;
+   margin-left: 290px;
+}
+
+.newly-harvest .harvest-text h1{
+   font-size: 30px;
+   line-height: 30px;
+   word-spacing: 0px;
+   font-weight: 700;
+}
+
+.newly-harvest .harvest-text .text{
+   font-size: 14px;
+   font-weight: 400;
+   word-spacing: 0px;
+   line-height: 16px;
+}
+
+.newly-harvest .harvest-text .btn-primary{
+   font-size: 12px;
+   font-weight: 700;
+   letter-spacing: 0px;
+   word-spacing: 0px;
+   padding: 5px 10px;
+   border: 2px solid #2C7262;
+}
+
+
+/* Newly-harvest css end */
+
+/* Fresh daily products css start */
+
+.fresh-daily .fresh-daily-text{
+   width: 46%;
+   margin-top: 30px;
+   margin-left: 10px;
+}
+
+.fresh-daily .fresh-daily-text h1{
+   font-size: 30px;
+   line-height: 30px;
+   word-spacing: 0px;
+   font-weight: 700;
+}
+
+.fresh-daily .fresh-daily-text .text{
+   font-size: 14px;
+   font-weight: 400;
+   word-spacing: 0px;
+   line-height: 16px;
+}
+
+.fresh-daily .fresh-daily-text .btn-primary{
+   font-size: 12px;
+   font-weight: 700;
+   letter-spacing: 0px;
+   word-spacing: 0px;
+   padding: 5px 10px;
+   border: 2px solid #2C7262;
+}
+
+.fresh-img img{
+   width: 70%;
+   margin-left: 263px;
+   margin-top: -241px;
+}
+
+/* Fresh daily products css end */
+
+/* Testimonial css start start */
+
+.testimonial {
+   padding: 40px 0px;
+}
+
+.testimonial-head {
+   margin-top: 18px;
+}
+
+.testimonial .testimonial-head h1{
+   font-size: 50px;
+   font-weight: 700;
+   line-height: 55px;
+   word-spacing: 0px;
+   letter-spacing: 1px;
+}
+
+.testimonial .testimonial-head p{
+   font-size: 14px;
+   font-weight: 600;
+   letter-spacing: 1px;
+}
+
+.testimonial .inner-testimonial p{
+   font-size: 12px;
+   word-spacing: 0px;
+   line-height: 22px;
+   margin-top: 18px;
+}
+
+/* Testimonial css start end */
+
+/* Local farms css start */
+
+.local-farms{
+   padding: 40px 0px;
+}
+
+.local-farms .local-farms-head h1{
+   font-size: 40px;
+   font-weight: 600;
+   line-height: 45px;
+   word-spacing: 0px;
+}
+
+.local-farms .inner-local-farms{
+   margin-top: 0px;
+}
+
+.local-farms .inner-local-farms .farms-img{
+   width: 70%;
+   margin-left: 65px;
+}
+
+.local-farms .inner-local-farms h4{
+   font-size: 20px;
+   font-weight: 600;
+   line-height: 45px;
+   word-spacing: 0px;
+   margin-top: 0px;
+}
+
+.local-farms .inner-local-farms p{
+    font-size: 14px;
+   word-spacing: 0px;
+   line-height: 20px;
+}
+
+.local-farms .local-farms-btn{
+   margin-top: 0px;
+}
+
+.local-farms .local-farms-btn .btn-primary{
+   font-size: 20px;
+   font-weight: 400;
+   letter-spacing: 0px;
+   word-spacing: 1px;
+   padding: 10px 20px;
+}
+
+/* Local farms css end */
+
+/* footer css start */
+
+.footer{
+   padding: 40px 0px 0px;
+}
+
+.footer h3{
+   font-weight: 600;
+   font-size: 40px;
+   line-height: 45px;
+}
+
+.footer .col-md-8{
+   margin-top: 20px;
+   text-align: center;
+}
+
+.footer h5{
+   font-size: 30px;
+   line-height: 35px
+}
+
+.footer .main-footer{
+   text-align: center;
+   font-size: 20px;
+   margin-left: 0px;
+   margin-top: -32px;
+}
+
+/* footer css end */
+
+/* css code end */
+
+}
+
+/***** Most of the tablet, ipad and notebook
+   Resulation: 768px to 1020px; 
+*****/
+   
+@media (min-width: 768px) and (max-width: 1200px){
+
+/* css code start */
+
+/* header css start */
+
+.inner-header{
+   padding: 40px 0px;
+   margin-top: -210px;
+}
+
+.header .nav-bg-light .logo {
+    width: 70%;
+}
+
+.inner-header .inner-header-text {
+   margin-top: 260px;
+   text-align: center;
+}
+
+.inner-header .header-img{
+   width: 100%;
+   top: 205px;
+}
+
+.inner-header .inner-header-text p{
+   font-size: 20px;
+   word-spacing: 0px;
+}
+
+.inner-header .inner-header-text h1{
+   font-size: 40px;
+   line-height: 30px;
+   word-spacing: 0px;
+
+}
+
+.inner-header-1 .background-text p{
+   font-size: 15px;
+   line-height: 24px;
+   letter-spacing: 0px;
+   margin-top: 20px;
+}
+
+.inner-header-1 .background-text .btn-primary{
+   font-size: 14px;
+   letter-spacing: 0px;
+   word-spacing: 0px;
+   padding: 5px 15px;
+   margin-bottom: 35px;
+}
+
+/* header css end */
+
+/* Ready-for css start */
+
+.ready-for{
+   padding: 40px 0px;
+}
+
+.ready-for .head-ready-for p{
+   font-size: 20px;
+}
+
+.ready-for .head-ready-for h1{
+   font-size: 40px;
+   line-height: 30px;
+}
+
+.ready-for-img{
+   text-align: center;
+   padding: 35px 0px;
+
+}
+
+.ready-for-img img{
+   margin-left: 30px;
+}
+
+.ready-for .ready-for-img p{
+   font-size: 20px;
+   word-spacing: 0px;
+   line-height: 30px;
+   margin-top: 30px;
+   margin-left: 72px;
+}
+
+
+/* Ready-for css end */
+
+
+/* support css start */
+
+.support-fermar{
+   width: 670px;
+   height: 445px;
+}
+
+.support-fermar .inner-support{
+   margin-top: 12%;
+   margin-left: 20%;
+}
+
+.support-fermar .inner-support .text {
+   font-size: 12px;
+   font-weight: 400;
+   width: 76%;
+   margin-bottom: 10px;
+}
+
+.support-fermar .supp-img{
+   margin-left: 120px;
+   margin-top: 52%;
+}
+
+.support-fermar .inner-support p{
+   font-size: 15px;
+   word-spacing: 0px;
+}
+
+.support-fermar .inner-support h1{
+   font-size: 30px;
+   line-height: 30px;
+   word-spacing: 0px;
+}
+
+.support-fermar .inner-support .btn-primary{
+   font-size: 12px;
+}
+
+/* support css end */
+
+
+/* Newly-harvest css start */
+
+
+.newly-harvest .harvest-text{
+   margin-top: 85px;
+   margin-left: 40px;
+}
+
+.newly-harvest .harvest-text h1{
+   font-size: 30px;
+   line-height: 30px;
+   word-spacing: 0px;
+   font-weight: 700;
+}
+
+.newly-harvest .harvest-text .text{
+   font-size: 14px;
+   font-weight: 400;
+   word-spacing: 0px;
+   line-height: 16px;
+}
+
+.newly-harvest .harvest-text .btn-primary{
+   font-size: 12px;
+   font-weight: 700;
+   letter-spacing: 0px;
+   word-spacing: 0px;
+   padding: 5px 10px;
+   border: 2px solid #2C7262;
+}
+
+
+/* Newly-harvest css end */
+
+/* Fresh daily products css start */
+
+.fresh-daily .fresh-daily-text{
+   margin-top: 120px;
+   margin-left: 10px;
+}
+
+.fresh-daily .fresh-daily-text h1{
+   font-size: 30px;
+   line-height: 30px;
+   word-spacing: 0px;
+   font-weight: 700;
+}
+
+.fresh-daily .fresh-daily-text .text{
+   font-size: 14px;
+   font-weight: 400;
+   word-spacing: 0px;
+   line-height: 16px;
+}
+
+.fresh-daily .fresh-daily-text .btn-primary{
+   font-size: 12px;
+   font-weight: 700;
+   letter-spacing: 0px;
+   word-spacing: 0px;
+   padding: 5px 10px;
+   border: 2px solid #2C7262;
+}
+
+/* .fresh-img img{
+   width: 70%;
+   margin-left: 263px;
+   margin-top: -241px;
+}
+ */
+/* Fresh daily products css end */
+
+/* Testimonial css start start */
+
+.testimonial {
+   padding: 40px 0px;
+}
+
+.testimonial-head {
+   margin-top: 18px;
+}
+
+.testimonial .testimonial-head h1{
+   font-size: 50px;
+   font-weight: 700;
+   line-height: 55px;
+   word-spacing: 0px;
+   letter-spacing: 1px;
+}
+
+.testimonial .testimonial-head p{
+   font-size: 14px;
+   font-weight: 600;
+   letter-spacing: 1px;
+}
+
+.testimonial .inner-testimonial p{
+   font-size: 12px;
+   word-spacing: 0px;
+   line-height: 22px;
+   margin-top: 18px;
+}
+
+/* Testimonial css start end */
+
+/* Local farms css start */
+
+.local-farms{
+   padding: 40px 0px;
+}
+
+.local-farms .local-farms-head h1{
+   font-size: 40px;
+   font-weight: 600;
+   line-height: 45px;
+   word-spacing: 0px;
+}
+
+.local-farms .inner-local-farms{
+   margin-top: 0px;
+}
+
+.local-farms .inner-local-farms .farms-img{
+   width: 70%;
+   margin-left: 65px;
+}
+
+.local-farms .inner-local-farms h4{
+   font-size: 20px;
+   font-weight: 600;
+   line-height: 45px;
+   word-spacing: 0px;
+   margin-top: 0px;
+}
+
+.local-farms .inner-local-farms p{
+    font-size: 14px;
+   word-spacing: 0px;
+   line-height: 20px;
+}
+
+.local-farms .local-farms-btn{
+   margin-top: 0px;
+}
+
+.local-farms .local-farms-btn .btn-primary{
+   font-size: 20px;
+   font-weight: 400;
+   letter-spacing: 0px;
+   word-spacing: 1px;
+   padding: 10px 20px;
+}
+
+/* Local farms css end */
+
+/* footer css start */
+
+.footer{
+   padding: 40px 0px 0px;
+}
+
+.footer h3{
+   font-weight: 600;
+   font-size: 40px;
+   line-height: 45px;
+}
+
+.footer .col-md-8{
+   margin-top: 20px;
+   text-align: center;
+}
+
+.footer h5{
+   font-size: 30px;
+   line-height: 35px
+}
+
+.footer .main-footer{
+   text-align: center;
+   font-size: 20px;
+   margin-left: 0px;
+   margin-top: -32px;
+}
+
+/* footer css end */
+
+/* css code end */
+
+}
